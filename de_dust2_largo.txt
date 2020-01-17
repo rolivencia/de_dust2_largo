@@ -1,0 +1,21 @@
+de_dust2_largo [Versión Final]
+
+Por Ramiro Olivencia alias Mapper22, alias BruceDickinson
+
+mapper22@gmail.com      
+
+Nombre del mapa:   	de_dust2_largo
+Tamaño:			200kb aproximadamente
+
+Mod:			Counter-Strike y Counter-Strike: Condition Zero
+	
+Editor:			Valve Hammer Editor v3.5
+Tiempo de compilación: 	10 minutos aproximadamente
+Tools: 			ZHLT v3.2.1
+
+Otros mapas por mí:	gt_legov2, mp22_warehouse, de_sandtemple, de_minicbble
+
+
+======================================================================
+ 
+Enjoy!
