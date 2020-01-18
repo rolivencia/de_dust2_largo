@@ -17,12 +17,15 @@ To get the de_dust2 source, I just decompiled the original de_dust2 map included
 **By Ramiro Olivencia alias Mapper22, alias BruceDickinson (mapper22@gmail.com)**      
 
 **Map name:**   	de_dust2_largo
+
 **Size:**			Around 200kb
 
 **Mod:**			Counter-Strike 1.6 & Counter-Strike: Condition Zero
 	
 **Editor:**			Valve Hammer Editor v3.5
+
 **Compilation time:** 	10 minutos aproximadamente
+
 **Tools:** 			ZHLT v3.2.1
 
 **Other maps by me:**	gt_legov2, mp22_warehouse, de_sandtemple, de_minicbble
