@@ -24,7 +24,7 @@ To get the de_dust2 source, I just decompiled the original de_dust2 map included
 	
 **Editor:**			Valve Hammer Editor v3.5
 
-**Compilation time:** 	10 minutos aproximadamente
+**Compilation time:** 	approximately 10 minutes
 
 **Tools:** 			ZHLT v3.2.1
 
