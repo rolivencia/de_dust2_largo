@@ -4,7 +4,7 @@ Counter-Strike 1.6 custom map. Spin-off of the original de_dust2 map included in
 
 It is nicknamed since in Argentina we dubbed the "side" passage as "largo". 
 
-Altough the suffix of the map is "de_", actually it is not possible to plan the bomb and the map is of deathmatch type. It only bears the suffix because of, let's say, "marketing" reasons.
+Altough the suffix of the map is "de_", actually it is not possible to plant the bomb and the map is of deathmatch type. It only bears the suffix because of, let's say, "marketing" reasons.
 
 This map was developed in the southern-hemisphere summer of 2005 while I was 15 years old. In the repository you can find the compiled .bsp version and also the original sources that I used to create the map.
 
