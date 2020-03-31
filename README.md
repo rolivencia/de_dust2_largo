@@ -8,7 +8,7 @@ Altough the suffix of the map is "de_", actually it is not possible to plant the
 
 This map was developed in the southern-hemisphere summer of 2005 while I was 15 years old. In the repository you can find the compiled .bsp version and also the original sources that I used to create the map.
 
-To get the de_dust2 source, I just decompiled the original de_dust2 map included in CS 1.6 and rebuilt it from scratch, including only the side passage. The original text file included in the distributable version of 
+To get the de_dust2 source, I just decompiled the original de_dust2 map included in CS 1.6 and rebuilt it from scratch, including only the side passage. The original text file included in the distributable version of the map is included below.
 
 ## Translation of original readme file:
 
