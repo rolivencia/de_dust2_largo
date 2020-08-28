@@ -13,9 +13,13 @@ To get the de_dust2 source, I just decompiled the original de_dust2 map included
 ## What is each file?
 
 .nav - It's the file that bots used to know how to navigate through a map. It is required for the 1.6 bots to avoid them behaving awkwardly.
+
 .res - Lists the resources required by the game to be able to download all the map dependencies when downloading the map from a server when you don't have it in your computer.
+
 .bsp - Compiled map. Ready to run in CS 1.6
+
 .rmf - Source of the map. Can be opened with Valve Hammer Editor 3.5. It requires importing the Half-Life 1.1.1.0 textures (halflife.wad) and de_dust2 textures (de_dust2.wad)
+
 .txt - Info file.
 
 ## Translation of original readme file:
