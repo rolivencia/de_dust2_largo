@@ -1,0 +1,9 @@
+maps/de_dust2_largo.res
+maps/de_dust2_largo.txt
+maps/de_dust2_largo.nav
+gfx/env/desup.tga
+gfx/env/desdn.tga
+gfx/env/deslf.tga
+gfx/env/desrt.tga
+gfx/env/desft.tga
+gfx/env/desbk.tga
