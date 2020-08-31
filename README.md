@@ -10,6 +10,9 @@ This map was developed in the southern-hemisphere summer of 2005 while I was 15 
 
 To get the de_dust2 source, I just decompiled the original de_dust2 map included in CS 1.6 and rebuilt it from scratch, including only the side passage. The original text file included in the distributable version of the map is included below.
 
+### 2020-08-30 Update
+Added screenshots by Ezequiel-TM (https://store.steampowered.com/wishlist/id/tremolomeasure)
+
 ## What is each file?
 
 .nav - It's the file that bots used to know how to navigate through a map. It is required for the 1.6 bots to avoid them behaving awkwardly.
