@@ -1,14 +1,13 @@
-// overview description file for de_dust2_largo.bsp
+//Overview by Ezequiel-TM
 
-global 
+global
 {
-	ZOOM	1.84
-	ORIGIN	564 	1085	128
-	ROTATED	0
+	ZOOM 1.52
+	ORIGIN 480.00 1056 -193
+	ROTATED 0
 }
 
-layer 
-{
-	IMAGE	"overviews/de_dust2_largo.bmp"
-	HEIGHT	-193
+layer {
+	IMAGE "overviews/de_dust2_largo.bmp"
+	HEIGHT -193
 }
