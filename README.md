@@ -2,7 +2,7 @@
 
 Counter-Strike 1.6 custom map. Spin-off of the original de_dust2 map included in CS 1.6, with the added restriction of the players only being able to move through the side passage that connects the T base and CT base.
 
-It is nicknamed since in Argentina we dubbed the "side" passage as "largo". 
+It is nicknamed in this fashion since in Argentina we dubbed the "side" passage as "largo". 
 
 Altough the suffix of the map is "de_", actually it is not possible to plant the bomb and the map is of deathmatch type. It only bears the suffix because of, let's say, "marketing" reasons.
 
