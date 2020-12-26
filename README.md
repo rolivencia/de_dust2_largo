@@ -1,5 +1,7 @@
 # de_dust2_largo
 
+![de_dust2_largo caption](https://raw.githubusercontent.com/rolivencia/de_dust2_largo/master/csgo/dist/thumb2328564968.jpg?raw=true)
+
 Counter-Strike 1.6 custom map. Spin-off of the original de_dust2 map included in CS 1.6, with the added restriction of the players only being able to move through the side passage that connects the T base and CT base.
 
 It is nicknamed in this fashion since in Argentina we dubbed the "side" passage as "largo". 
