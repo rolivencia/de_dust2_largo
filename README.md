@@ -10,13 +10,20 @@ This map was developed in the southern-hemisphere summer of 2005 while I was 15 
 
 To get the de_dust2 source, I just decompiled the original de_dust2 map included in CS 1.6 and rebuilt it from scratch, including only the side passage. The original text file included in the distributable version of the map is included below.
 
+The CSGO version, with its source files, is included under the /csgo folder. The link for the Workshop version of the CSGO remake is available at https://steamcommunity.com/sharedfiles/filedetails/?id=2328564968
+
+### 2020-12-03 Update
+Added remake version for CSGO. Splitted content in two folders for the CS 1.6 and CSGO versions.
+
 ### 2020-09-03 Update
 Added new overview by Ezequiel-TM (https://store.steampowered.com/wishlist/id/tremolomeasure)
 
 ### 2020-08-30 Update
 Added screenshots by Ezequiel-TM (https://store.steampowered.com/wishlist/id/tremolomeasure)
 
-## What is each file?
+## What is each file and what does each folder contain?
+
+### CS 1.6 version:
 
 .nav - It's the file that bots used to know how to navigate through a map. It is required for the 1.6 bots to avoid them behaving awkwardly.
 
@@ -28,9 +35,16 @@ Added screenshots by Ezequiel-TM (https://store.steampowered.com/wishlist/id/tre
 
 .txt - Info file.
 
-## Translation of original readme file:
+### CSGO version:
 
-### de_dust2_largo [Final Version]
+/dist folder - Contains the map as it is available on the Workshop, with a packaged .bsp file and screenshots.
+/radar folder - Contains the .psd file to modify and the .dds file that is bundled to display the in-game radar and the loading splash of the map.
+/materials folder - Contains all the custom textures used to create the map.
+/src folder - Contains the unpacked .bsp file, the compilation log and the .vmf file that can be opened using the Hammer Editor.
+
+## Readme files
+
+### Translation of original de_dust2_largo [Final Version] for CS 1.6
 
 **By Ramiro Olivencia alias Mapper22, alias BruceDickinson (mapper22@gmail.com)**      
 
@@ -49,3 +63,22 @@ Added screenshots by Ezequiel-TM (https://store.steampowered.com/wishlist/id/tre
 **Other maps by me:**	gt_legov2, mp22_warehouse, de_sandtemple, de_minicbble
  
 _The original readme file is included as a source in this repository, by the name de_dust2_largo.txt_
+
+### CSGO version readme file:
+
+Adaptation of the original "de_dust2_largo" developed by me, under the moniker "mapper22", for Counter-Strike 1.6 as a modification of the original "de_dust" by Dave Johnston, aka DaveJ.
+
+Detailed textures taken from de_dust2_upscaled, by 3kliksphilip, based on the originals from Chris "MacMan" Ashton.
+
+**Version 1.0 - 26/12/2020 (15th anniversary)**
+
+Supported playing modes:
+- Deathmatch
+- Classic
+- Flying Scoutsman
+- Arms Race
+- Custom
+
+Spawn point numbers:
+- 10 T + 10 CT for Classic/Flying Scoutsman/Arms Race/Custom
+- 20 for Deathmatch
