@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "dust2_legacy3_hr/FIFTIES_LGT2"
+	$surfaceprop "glass"
+	$basetexturetransform "center 0 0 scale 4 4 rotate 0 translate 0 0"
+	$bumptransform "center 0 0 scale 4 4 rotate 0 translate 0 0"
+}

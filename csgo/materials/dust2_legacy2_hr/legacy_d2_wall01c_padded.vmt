@@ -1,0 +1,9 @@
+
+LightmappedGeneric
+{
+	$basetexture "dust2_legacy2_hr/legacy_d2_wall01c_padded"
+	"$bumpmap" "dust2_legacy2_hr/legacy_d2_wall01c_padded_normal"
+	$basetexturetransform "center 0 0 scale 4 4 rotate 0 translate 0 0"
+	$bumptransform "center 0 0 scale 4 4 rotate 0 translate 0 0"
+	$surfaceprop "concrete"
+}
