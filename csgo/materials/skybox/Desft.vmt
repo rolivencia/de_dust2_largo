@@ -1,6 +1,6 @@
 "UnlitGeneric"
 {
-	"$basetexture"	"skybox\Des_hrup"
+	"$basetexture" "skybox/Desft"
 	"$nofog"	"1"
 	"$ignorez"	"1"
 }
