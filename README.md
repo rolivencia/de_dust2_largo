@@ -10,39 +10,45 @@ Altough the suffix of the map is "de_", actually it is not possible to plant the
 
 This map was developed in the southern-hemisphere summer of 2005 while I was 15 years old. In the repository you can find the compiled .bsp version and also the original sources that I used to create the map.
 
-To get the de_dust2 source, I just decompiled the original de_dust2 map included in CS 1.6 and rebuilt it from scratch, including only the side passage. The original text file included in the distributable version of the map is included below.
+To get the de_dust2 source, I just decompiled the original de_dust2 map included in CS 1.6 and rebuilt it from scratch, including only the side passage.
+The original text file included in the distributable version of the map is included below.
 
-The CSGO version, with its source files, is included under the /csgo folder. The link for the Workshop version of the CSGO remake is available at https://steamcommunity.com/sharedfiles/filedetails/?id=2328564968
+Each version has their own folder.
+- **/cs** is for Counter-Strike 1.6.
+- **/csgo** is for Counter-Strike: Global Offensive.
 
-### 2020-12-03 Update
-Added remake version for CSGO. Splitted content in two folders for the CS 1.6 and CSGO versions.
+The source files for both versions are in the subfolder **/src** of the respective version.<br />
+The link for the Workshop version of the CS:GO remake is available at https://steamcommunity.com/sharedfiles/filedetails/?id=2328564968
 
-### 2020-09-03 Update
-Added new overview by Ezequiel-TM (https://store.steampowered.com/wishlist/id/tremolomeasure)
-
-### 2020-08-30 Update
-Added screenshots by Ezequiel-TM (https://store.steampowered.com/wishlist/id/tremolomeasure)
+Changelog available in CHANGELOG.md
 
 ## What is each file and what does each folder contain?
 
-### CS 1.6 version:
+### CS:
 
-.nav - It's the file that bots used to know how to navigate through a map. It is required for the 1.6 bots to avoid them behaving awkwardly.
+**maps/de_dust2_largo.bsp** - Compiled map. Ready to run in Counter-Strike 1.6
 
-.res - Lists the resources required by the game to be able to download all the map dependencies when downloading the map from a server when you don't have it in your computer.
+**maps/de_dust2_largo.nav** - It's the file that bots used to know how to navigate through a map. It is required for the 1.6 bots to avoid them behaving awkwardly.
 
-.bsp - Compiled map. Ready to run in CS 1.6
+**maps/de_dust2_largo.res** - Lists the resources required by the game to be able to download all the map dependencies when downloading the map from a server when you don't have it in your computer.
 
-.rmf - Source of the map. Can be opened with Valve Hammer Editor 3.5. It requires importing the Half-Life 1.1.1.0 textures (halflife.wad) and de_dust2 textures (de_dust2.wad)
+**maps/de_dust2_largo.txt** - Info file that displays after starting/joining a game.
 
-.txt - Info file.
+**src/de_dust2_largo.wad** - Wad file that contains the used textures that were embedded in the original de_dust2 bsp and required extracting.
 
-### CSGO version:
+**src/de_dust2_largo.rmf** - Source of the map for Counter-Strike 1.6. Can be opened with Valve Hammer Editor 3.5. It requires importing the Half-Life 1.1.1.0 textures (halflife.wad), de_dust2 textures (de_dust2_largo.wad) and de_dust textures (cs_dust.wad)
 
-/dist folder - Contains the map as it is available on the Workshop, with a packaged .bsp file and screenshots.
-/radar folder - Contains the .psd file to modify and the .dds file that is bundled to display the in-game radar and the loading splash of the map.
-/materials folder - Contains all the custom textures used to create the map.
-/src folder - Contains the unpacked .bsp file, the compilation log and the .vmf file that can be opened using the Hammer Editor.
+**src/Compile Options JACK.png** - Screenshot that shows the settings that the map was compiled.
+
+### CSGO:
+
+**/dist** folder - Contains the map as it is available on the Workshop, with a packaged **.bsp** file with all the required materials and screenshots.
+
+**/materials** folder - Contains all the custom textures used to create the map.
+
+**/radar** folder - Contains the **.psd** file to modify, the **.dds** file and **.txt** file that is bundled to display the in-game radar and the loading splash of the map.
+
+**/src** folder - Contains the unpacked .bsp file, the compilation log and the .vmf file that can be opened using the Hammer Editor.
 
 ## Readme files
 
