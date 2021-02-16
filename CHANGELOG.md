@@ -5,11 +5,11 @@ The format tries to be based on [Keep a Changelog](https://keepachangelog.com/en
 
 ## 2021-02-15
 ### Added
-- [CS 1.6] Pull Request #8 is merged:
+- [CS 1.6]
    - **Compile Options JACK.png**: Screenshot that shows how the settings were adjusted to compile **de_dust2_largo.rmf**.
 
 ### Changed
-- [CS 1.6] Pull Request #8 is merged:
+- [CS 1.6]
    - **de_dust2_largo.rmf**: The RMF has been entirely replaced by one based on the original de_dust2 source file.<br />
    The changes were made to the de_dust2 RMF to remain as faithful to the original de_dust2_largo BSP as possible are:<br />
        - Closed up parts of the map in the same parts they were closed in the original BSP.
@@ -20,13 +20,12 @@ The format tries to be based on [Keep a Changelog](https://keepachangelog.com/en
 
 ## 2021-02-15
 ### Fixed
-- [CS 1.6] Pull Request #4 is merged:
+- [CS 1.6]
    - **de_dust2_largo.rmf**:
        - Added clip brushes near the sky to prevent players from jumping to the wall borders.
        - Wrong placed NULL textures now show the intended texture.
        - Crates near CT spawn are moved to remain faithful to the original BSP.
        - Added a brush near T spawn to remain faithful to the original BSP.<br /><br />
-- [CS 1.6] Pull Request #7 is merged:
    - **de_dust2_largo.wad**: WAD file added, it contains the missing textures from issue #2.
    - **de_dust2_largo.rmf**: Modified the position of the GameHelper ad brushes to remain faithful to the original de_dust2.
 
