@@ -13,7 +13,10 @@ This map was developed in the southern-hemisphere summer of 2005 while I was 15 
 To get the de_dust2 source, I just decompiled the original de_dust2 map included in CS 1.6 and rebuilt it from scratch, including only the side passage.
 The original text file included in the distributable version of the map is included below.
 
-Each version has their own folder, **/cs** is for Counter-Strike 1.6, and **/csgo** is for Counter-Strike: Global Offensive.<br />
+Each version has their own folder.
+- **/cs** is for Counter-Strike 1.6.
+- **/csgo** is for Counter-Strike: Global Offensive.
+
 The source files for both versions are in the subfolder **/src** of the respective version.<br />
 The link for the Workshop version of the CS:GO remake is available at https://steamcommunity.com/sharedfiles/filedetails/?id=2328564968
 
