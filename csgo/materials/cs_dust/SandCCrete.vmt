@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "cs_dust/SandCCrete"
+	$surfaceprop "concrete"
+	$POINTSAMPLEMAGFILTER 1
+}

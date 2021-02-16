@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "de_dust2/SandWllDoorDJ2"
+	$surfaceprop "wood"
+	$POINTSAMPLEMAGFILTER 1
+}
