@@ -2,5 +2,4 @@
 {
 	"$basetexture" "halflife/GENERIC011"
 	$surfaceprop "metal"
-	$POINTSAMPLEMAGFILTER 1
 }
