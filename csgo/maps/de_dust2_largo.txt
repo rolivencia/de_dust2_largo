@@ -1,0 +1,10 @@
+
+
+<font color='#727272'>A community map created by:</font>
+<font color='#ff9844'>Ramiro Olivencia AKA mapper22</font>
+
+<font color='#727272'>Based on the original de_dust2 by:</font>
+<font color='#44b1ff'>Dave Johnston AKA DaveJ</font>
+
+<font color='#727272'>... with the HD textures created by:</font>
+<font color='#ffffff'>3kliksphilip</font>
