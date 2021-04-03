@@ -17,10 +17,13 @@ Each version has their own folder.
 - **/cs** is for Counter-Strike 1.6.
 - **/csgo** is for Counter-Strike: Global Offensive.
 
-The source files for both versions are in the subfolder **/src** of the respective version.<br />
-The link for the Workshop version of the CS:GO remake is available at https://steamcommunity.com/sharedfiles/filedetails/?id=2328564968
+The source files for both versions are in the subfolder **/src** of the respective version.
 
-Changelog available in CHANGELOG.md
+The link for the Workshop version of the CS:GO remake is available at the [CSGO Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2328564968).
+
+Contributions to refactor and improve both the CS 1.6 & CS:GO maps were made by Maxwell Ruiz, aka [WorstAquaPlayer](https://steamcommunity.com/id/AquaPlayer).
+
+Changelog available in CHANGELOG.md.
 
 ## What is each file and what does each folder contain?
 
@@ -36,7 +39,7 @@ Changelog available in CHANGELOG.md
 
 **src/de_dust2_largo.wad** - Wad file that contains the used textures that were embedded in the original de_dust2 bsp and required extracting.
 
-**src/de_dust2_largo.rmf** - Source of the map for Counter-Strike 1.6. Can be opened with Valve Hammer Editor 3.5. It requires importing the Half-Life 1.1.1.0 textures (halflife.wad), de_dust2 textures (de_dust2_largo.wad) and de_dust textures (cs_dust.wad)
+**src/de_dust2_largo.rmf** - Source of the map for Counter-Strike 1.6. Can be opened with Valve Hammer Editor 3.5. It requires importing the Half-Life 1.1.1.0 textures (halflife.wad), de_dust2 textures (de_dust2_largo.wad) and de_dust textures (cs_dust.wad). Since changes were introduced to the original 2005 version of the .rmf file and the compilation presets are lost, it is not possible to generate the same .bsp file that is available on the web. Be careful when distributing compilations based on this .rmf.
 
 **src/Compile Options JACK.png** - Screenshot that shows the settings that the map was compiled.
 
@@ -74,9 +77,12 @@ _The original readme file is included as a source in this repository, by the nam
 
 ### CSGO version readme file:
 
-Adaptation of the original "de_dust2_largo" developed by me, under the moniker "mapper22", for Counter-Strike 1.6 as a modification of the original "de_dust" by Dave Johnston, aka DaveJ.
+Adaptation of the original "de_dust2_largo" developed by Ramiro Olivencia, aka [Murray](https://steamcommunity.com/id/mapper22/), 
+The original version was developed by me under the moniker "mapper22" for Counter-Strike 1.6 as a modification of the original "de_dust" by Dave Johnston, aka DaveJ.
 
-Detailed textures taken from de_dust2_upscaled, by 3kliksphilip, based on the originals from Chris "MacMan" Ashton.
+Detailed textures taken from de_dust2_upscaled, by 3kliksphilip, based on the originals from Chris "MacMan" Ashton. 
+
+Contributions to refactor and improve the CSGO port were made by Maxwell Ruiz, aka [WorstAquaPlayer](https://steamcommunity.com/id/AquaPlayer).
 
 **Version 1.0 - 26/12/2020 (15th anniversary)**
 
