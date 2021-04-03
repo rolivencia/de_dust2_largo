@@ -84,6 +84,10 @@ Detailed textures taken from de_dust2_upscaled, by 3kliksphilip, based on the or
 
 Contributions to refactor and improve the CSGO port were made by Maxwell Ruiz, aka [WorstAquaPlayer](https://steamcommunity.com/id/AquaPlayer).
 
+**Version 1.1 - 02/04/2020**
+
+Complete map rework. Adapted geometry and lightning to resemble the original de_dust2_largo from CS 1.6.
+
 **Version 1.0 - 26/12/2020 (15th anniversary)**
 
 Supported playing modes:
