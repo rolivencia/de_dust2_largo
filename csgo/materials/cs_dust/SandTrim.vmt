@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "cs_dust/SandTrim"
+	$surfaceprop "concrete"
+}

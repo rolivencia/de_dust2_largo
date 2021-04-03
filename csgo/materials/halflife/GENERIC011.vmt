@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "halflife/GENERIC011"
+	$surfaceprop "metal"
+}

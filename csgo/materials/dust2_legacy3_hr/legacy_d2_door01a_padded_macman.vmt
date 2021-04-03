@@ -1,8 +1,0 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "dust2_legacy3_hr/legacy_d2_door01a_padded_macman"
-	"$bumpmap" "dust2_legacy2_hr/legacy_d2_door01a_padded_normal"
-	$basetexturetransform "center 0 0 scale 4 4 rotate 0 translate 0 0"
-	$bumptransform "center 0 0 scale 4 4 rotate 0 translate 0 0"
-	$surfaceprop "wood"
-}

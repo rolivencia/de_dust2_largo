@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "cs_dust/MltryCrteTp"
+	$surfaceprop "metal"
+}
