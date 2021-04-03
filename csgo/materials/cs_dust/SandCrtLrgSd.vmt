@@ -2,4 +2,5 @@
 {
 	"$basetexture" "cs_dust/SandCrtLrgSd"
 	$surfaceprop "wood"
+	$POINTSAMPLEMAGFILTER 1
 }

@@ -2,4 +2,5 @@
 {
 	"$basetexture" "cs_dust/MltryCrteTp"
 	$surfaceprop "metal"
+	$POINTSAMPLEMAGFILTER 1
 }

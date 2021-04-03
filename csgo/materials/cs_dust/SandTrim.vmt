@@ -2,4 +2,5 @@
 {
 	"$basetexture" "cs_dust/SandTrim"
 	$surfaceprop "concrete"
+	$POINTSAMPLEMAGFILTER 1
 }

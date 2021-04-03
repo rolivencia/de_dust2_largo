@@ -2,4 +2,5 @@
 {
 	"$basetexture" "de_dust2/csSandWallDJ1"
 	$surfaceprop "concrete"
+	$POINTSAMPLEMAGFILTER 1
 }
