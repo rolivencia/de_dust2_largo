@@ -80,8 +80,6 @@ _The original readme file is included as a source in this repository, by the nam
 Adaptation of the original "de_dust2_largo" developed by Ramiro Olivencia, aka [Murray](https://steamcommunity.com/id/mapper22/), 
 The original version was developed by me under the moniker "mapper22" for Counter-Strike 1.6 as a modification of the original "de_dust" by Dave Johnston, aka DaveJ.
 
-Detailed textures taken from de_dust2_upscaled, by 3kliksphilip, based on the originals from Chris "MacMan" Ashton. 
-
 Contributions to refactor and improve the CSGO port were made by Maxwell Ruiz, aka [WorstAquaPlayer](https://steamcommunity.com/id/AquaPlayer).
 
 **Version 1.1 - 02/04/2020**
