@@ -1,0 +1,11 @@
+"de_dust2_largo"
+{
+	"CTSpawn_x" "0.483"
+	"CTSpawn_y" "0.352"
+	"TSpawn_x" "0.27"
+	"TSpawn_y" "0.93"
+	"material" "overviews/de_dust2_largo_radar"
+	"pos_x" "-1784.000000"
+	"pos_y" "3328.000000"
+	"scale" "4.380000"
+}
