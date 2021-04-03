@@ -1,6 +1,6 @@
 # de_dust2_largo
 
-![de_dust2_largo caption](https://raw.githubusercontent.com/rolivencia/de_dust2_largo/master/csgo/dist/thumb2328564968.jpg?raw=true)
+![de_dust2_largo caption](https://user-images.githubusercontent.com/32349705/113464063-6926e680-9400-11eb-977a-12d774fb89ca.jpg)
 
 Counter-Strike 1.6 custom map. Spin-off of the original de_dust2 map included in CS 1.6, with the added restriction of the players only being able to move through the side passage that connects the T base and CT base.
 
