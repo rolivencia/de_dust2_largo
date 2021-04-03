@@ -1,18 +1,11 @@
-Overview: scale 4.20, pos_x -1626, pos_y 3140
-
-// HLTV overview description file for de_dust2_largo.bsp
 "de_dust2_largo"
 {
-	"material"	"overviews/de_dust2_largo_radar"	// texture file
-	"pos_x"		"-1626"				// X coordinate
-	"pos_y"		"3140"				// Y coordinate
-	"scale"		"4.20" 				// scale used when taking the screenshot
-	"rotate"	"0"				// map was rotated by 90 degrees in image editor
-	"zoom"		"1"				// optimal zoom factor if map is shown in full size
-
-	//loading screen icons and positions
-	"CTSpawn_x"	"0.45"
- 	"CTSpawn_y"	"0.30"
-	"TSpawn_x"	"0.30"
-	"TSpawn_y"	"0.90"
+	"CTSpawn_x" "0.483"
+	"CTSpawn_y" "0.352"
+	"TSpawn_x" "0.27"
+	"TSpawn_y" "0.93"
+	"material" "overviews/de_dust2_largo_radar"
+	"pos_x" "-1784.000000"
+	"pos_y" "3328.000000"
+	"scale" "4.380000"
 }
