@@ -2,4 +2,5 @@
 {
 	"$basetexture" "halflife/+0~FIFTIES_LGT2"
 	$surfaceprop "glass"
+	$POINTSAMPLEMAGFILTER 1
 }
